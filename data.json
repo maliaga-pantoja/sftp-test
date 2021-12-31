@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "user": "abc",
+            "passwd": "abc",
+            "host": "abc",
+            "port": "22"
+        },
+        {
+            "user": "abc1",
+            "passwd": "abc1",
+            "host": "abc1",
+            "port": "222"
+        }
+    ]
+}
